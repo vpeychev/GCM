@@ -1,0 +1,9 @@
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\bin\Debug\GCM.UnitTest.dll
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\bin\Debug\GCM.UnitTest.pdb
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\bin\Debug\GCM.BL.Core.dll
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\bin\Debug\GCM.DataAccess.dll
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\bin\Debug\GCM.BL.Core.pdb
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\bin\Debug\GCM.DataAccess.pdb
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\obj\Debug\GCM.UnitTest.dll
+C:\2015.Projects\code\2015\code\GCM\Git\UnitTestProject\obj\Debug\GCM.UnitTest.pdb
